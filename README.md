@@ -21,33 +21,16 @@
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-                  
-  <br>
-
-  ### 🐱My Github stats:
-  
-  
-<table border="0" align="center">
-<tr border="0">
-<td width="60%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=NesanduGMS&theme=cobalt&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NesanduGMS&theme=dark&hide_border=true" />
+### 🐱My Github stats:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-  
-</td>
+![Nesandu GitHub stats](https://github-readme-stats.vercel.app/api?username=NesanduGMS&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NesanduGMS&theme=radical)](https://git.io/streak-stats) 
 
-<td width="70%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NesanduGMS&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
- 
-  </td>
-</tr>
-</table>
+
+
 
 <br>
 
